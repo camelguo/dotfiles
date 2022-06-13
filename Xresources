@@ -1,6 +1,6 @@
 !
-#include ".Xresources.d/colorschema"
-#include ".Xresources.d/urxvt"
+#include ".config/Xresources.d/colorschema"
+#include ".config/Xresources.d/urxvt"
 ! urxvt*termName: 		rxvt
 ! urxvt*scrollBar: 		false
 ! urxvt*matcher.button: 		1

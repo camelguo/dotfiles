@@ -1,0 +1,2 @@
+! configuration for URxvt
+URxvt.font: xft:DejaVu Sans Mono:pixelsize=16:antialias=true:hinting=true
