@@ -251,3 +251,5 @@ client.urgent           $red $red $white $red $red
 # client.urgent           $red $red $white $red $red
 
 exec_always --no-startup-id feh -z --bg-scale ~/Pictures/wallpapers/ & 
+
+assign [class="Gitk"] ws5 
